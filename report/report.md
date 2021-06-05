@@ -190,5 +190,5 @@ clean: -rm calcul *.o *~
                                     **Рис.5**
 ![](https://github.com/dsshestakov/Lab_14/blob/main/img/Снимок%20экрана%202021-06-05%20в%2018.28.28.png)
                                     **Рис.6**
-![](https://github.com/dsshestakov/Lab_13/blob/main/img/Снимок%20экрана%202021-06-05%20в%2011.21.54.png)
+![](https://github.com/dsshestakov/Lab_14/blob/main/img/Снимок%20экрана%202021-06-05%20в%2018.28.28.png)
                                     **Рис.7**
