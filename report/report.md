@@ -178,12 +178,17 @@ clean: -rm calcul *.o *~
 
     3. Общая оценка мобильности пользовательской программы.
 ## Приложение
-
-![](https://github.com/dsshestakov/Lab_13/blob/main/img/Снимок%20экрана%202021-06-05%20в%2011.10.48.png)
+![](https://github.com/dsshestakov/Lab_14/blob/main/img/Снимок%20экрана%202021-06-05%20в%2020.07.21.png)
                                     **Рис.1**
-![](https://github.com/dsshestakov/Lab_13/blob/main/img/Снимок%20экрана%202021-06-05%20в%2011.12.59.png)
+![](https://github.com/dsshestakov/Lab_14/blob/main/img/Снимок%20экрана%202021-06-05%20в%2020.07.36.png)
                                     **Рис.2**
-![](https://github.com/dsshestakov/Lab_13/blob/main/img/Снимок%20экрана%202021-06-05%20в%2011.13.34.png)
+![](https://github.com/dsshestakov/Lab_14/blob/main/img/Снимок%20экрана%202021-06-05%20в%2020.07.51.png)
                                     **Рис.3**
-![](https://github.com/dsshestakov/Lab_13/blob/main/img/Снимок%20экрана%202021-06-05%20в%2011.21.54.png)
+![](https://github.com/dsshestakov/Lab_14/blob/main/img/Снимок%20экрана%202021-06-05%20в%2011.50.20.png)
                                     **Рис.4**
+![](https://github.com/dsshestakov/Lab_14/blob/main/img/Снимок%20экрана%202021-06-05%20в%2018.27.28.png)
+                                    **Рис.5**
+![](https://github.com/dsshestakov/Lab_14/blob/main/img/Снимок%20экрана%202021-06-05%20в%2018.28.28.png)
+                                    **Рис.6**
+![](https://github.com/dsshestakov/Lab_13/blob/main/img/Снимок%20экрана%202021-06-05%20в%2011.21.54.png)
+                                    **Рис.7**
